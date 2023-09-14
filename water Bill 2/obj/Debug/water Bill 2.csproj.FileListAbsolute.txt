@@ -1,0 +1,11 @@
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\bin\Debug\water Bill 2.exe.config
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\bin\Debug\water Bill 2.exe
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\bin\Debug\water Bill 2.pdb
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\obj\Debug\water Bill 2.csprojAssemblyReference.cache
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\obj\Debug\water_Bill_2.Form1.resources
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\obj\Debug\water_Bill_2.Properties.Resources.resources
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\obj\Debug\water Bill 2.csproj.GenerateResource.cache
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\obj\Debug\water Bill 2.csproj.CoreCompileInputs.cache
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\obj\Debug\water Bill 2.exe
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\obj\Debug\water Bill 2.pdb
+D:\BIT\1st year\1st semester\visual application programing\Exercises\water Bill 2\water Bill 2\obj\Debug\water_Bill_2.Form2.resources
